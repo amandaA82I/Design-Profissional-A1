@@ -8,7 +8,7 @@
 
 ## 💡 Meu Foco: Construindo as Bases do Desenvolvimento
 
-Estou no início da jornada em TI, focado em construir uma base sólida e versátil. Meu objetivo é transformar desafios lógicos em soluções digitais eficientes e com impacto profissional.
+Estou no início da jornada em TI, focada em construir uma base sólida e versátil. Meu objetivo é transformar desafios lógicos em soluções digitais eficientes e com impacto profissional.
 
 ### 🔑 Hard Skills Adquiridas (1º Semestre)
 
