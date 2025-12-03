@@ -35,13 +35,4 @@ Este repositório consolida a entrega da Avaliação A1 de Design Profissional, 
 
 ---
 
-## 📈 Próximos Passos & Tecnologias Futuras
 
-Estou animado para mergulhar em:
-
-* **Linguagens:** Python para Análise de Dados.
-* **Frameworks:** React/Angular para aprofundamento em Front-End.
-* **Back-End:** Introdução a Node.js e APIs.
-
----
-**Vamos Conectar!** Sinta-se à vontade para explorar meus projetos e dar feedback.
