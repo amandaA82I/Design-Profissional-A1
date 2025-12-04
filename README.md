@@ -27,11 +27,11 @@ Este repositório consolida a entrega da Avaliação A1 de Design Profissional, 
 
 | Projeto/Disciplina | Descrição Rápida | Repositório |
 | :--- | :--- | :--- |
-| **🎨 Desenvolvimento Front End** | Prova de conceito em web design responsivo. | [Acessar Repositório](https://github.com/Talisom-santos/Desenvolvimento-Front-End-para-Web.git) |
-| **🗄️ Modelagem de Banco de Dados** | Documentação e diagramas de sistemas relacionais. | [Acessar Repositório](https://github.com/Talisom-santos/-Modelagem-de-Banco-de-Dados.git) |
-| **💻 Algoritmos & PC** | Código-fonte dos exercícios de lógica e estrutura de dados. | [Acessar Repositório](https://github.com/Talisom-santos/Algoritmos-e-Pensamento-Computacional.git) |
-| **💼 Design Profissional** | Entregáveis da disciplina (documentos, infográficos, etc.). | [Acessar Repositório](https://github.com/Talisom-santos/Design-Profissional.git) |
-| **📄 Portfólio Geral** | Repositório principal para organização de projetos. | [Acessar Repositório](https://github.com/Talisom-santos/Portif-lio.git) |
+| **🎨 Desenvolvimento Front End** | Prova de conceito em web design responsivo. | [Acessar Repositório](https://github.com/amandaA82I/Front-End.git) |
+| **🗄️ Modelagem de Banco de Dados** | Documentação e diagramas de sistemas relacionais. | [Acessar Repositório](https://github.com/amandaA82I/Banco-De-Dados.git) |
+| **💻 Algoritmos & PC** | Código-fonte dos exercícios de lógica e estrutura de dados. | [Acessar Repositório](https://github.com/amandaA82I/Algoritimos.git) |
+| **💼 Design Profissional** | Entregáveis da disciplina (documentos, infográficos, etc.). | [Acessar Repositório](https://github.com/amandaA82I/Design_Profissional.git) |
+| **📄 Portfólio Geral** | Repositório principal para organização de projetos. | [Acessar Repositório](https://github.com/amandaA82I/Design_Profissional/tree/bc992ab1c664afc2e7c95f1099cb4314d04c6e8f/Portfolio%20) |
 
 ---
 
